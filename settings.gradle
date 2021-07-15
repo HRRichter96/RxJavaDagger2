@@ -1,0 +1,2 @@
+rootProject.name = "RxJavaDagger2"
+include ':app'
